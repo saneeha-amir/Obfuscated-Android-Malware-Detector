@@ -1,7 +1,0 @@
-[Core]
-Name = NewAlignment
-Module = new_alignment
-
-[Documentation]
-Description = Realign the application
-Version = 1.0

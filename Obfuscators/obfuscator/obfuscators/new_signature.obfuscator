@@ -1,7 +1,0 @@
-[Core]
-Name = NewSignature
-Module = new_signature
-
-[Documentation]
-Description = Re-sign the application with a new custom signature
-Version = 1.0
